@@ -19,8 +19,11 @@ imdb movies has a tconst associated to a movie title of different genre premiere
 * data visualization
 
 ### Results
+![My image](images/total gross.png)
 * most movies sold are of sci-fi genre
+![My image](images/distribution.png)
 * most movies created are of drama genre
+![My image](images/ratings.png)
 * most rated moves are adventures
 
 ## Conclusions
